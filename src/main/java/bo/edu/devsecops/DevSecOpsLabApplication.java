@@ -9,3 +9,4 @@ public class DevSecOpsLabApplication {
         SpringApplication.run(DevSecOpsLabApplication.class, args);
     }
 }
+
